@@ -1,3 +1,4 @@
+# It's a sample code created by James Chu.
 def sumProblem(x, y):
     sum = x + y
     print('The sum of ', x, ' and ', y, ' is ', sum, '.', sep='')
